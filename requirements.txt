@@ -1,0 +1,6 @@
+aiogram==3.27.0
+
+redis
+aiohttp
+matplotlib
+Pillow
