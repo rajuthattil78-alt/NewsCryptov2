@@ -180,7 +180,7 @@ async def start_handler(message: Message):
     try:
 
         sent_sticker_msg = await message.answer_sticker(sticker=STICKER_ID)
-        await asyncio.sleep(3)
+        await asyncio.sleep(2)
             
             # 3. Delete the sticker message
         await sent_sticker_msg.delete()
@@ -204,7 +204,7 @@ async def help_handler(message: Message):
     lang = get_user_lang(message.from_user.id)
     
     help_text = (
-    "<blockquote><b>✦ QUANTUM CRYPTO PRO ✦</b></blockquote>\n\n"
+    "<blockquote><b>✦ QUANTUM TOKEN PRO ✦</b></blockquote>\n\n"
 
     "<pre>"
     "◆ LIVE MARKET STREAM\n"
@@ -256,7 +256,7 @@ async def helper_news(query: CallbackQuery):
     lang = get_user_lang(query.from_user.id)
     
     help_text = (
-        "<blockquote><b>✦ QUANTUM CRYPTO PRO ✦</b></blockquote>\n\n"
+        "<blockquote><b>✦ QUANTUM TOKEN PRO ✦</b></blockquote>\n\n"
 
         "<pre>"
         "◆ LIVE MARKET STREAM\n"
