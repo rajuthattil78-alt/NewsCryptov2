@@ -18,8 +18,9 @@ MESSAGES = {
     "en": {
         # Intro
         "welcome": (
-            "<blockquote><b>✦ QUANTUM CRYPTO PRO ✦</b></blockquote>\n\n"
-            "Welcome to your elite cryptocurrency command center. Access real-time market data, institutional insights, and precision conversion tools instantly."
+            "<blockquote><b>✦ QUANTUM TOKEN PRO ✦</b></blockquote>\n\n"
+            "<b>Get latest news About tokens and blockchain world!✨</b>\n\n"
+            "Get real-time market data, institutional insights, and precision conversion tools instantly.\n\n<i>Powered by CoinGecko APIs</i>"
         ),
         "choose_language": (
             "<blockquote><b>🌍 SYSTEM LANGUAGE SETUP</b></blockquote>\n\n"
@@ -43,7 +44,7 @@ MESSAGES = {
         # Buttons
         "prices_button": "📊 Live Market",
         "news_button": "📰 News Feed",
-        "converter_button": "🔁 Exchange Hub",
+        "converter_button": "🔁 Convert Hub",
         "settings_button": "⚙️ Parameters",
         "help_button": "❓ System Help",
         "back_button": "⬅️ Return",
@@ -180,7 +181,7 @@ MESSAGES = {
     
         "ru": {
         "welcome": (
-            "<blockquote><b>✦ QUANTUM CRYPTO PRO ✦</b></blockquote>\n\n"
+            "<blockquote><b>✦ QUANTUM TOKEN PRO ✦</b></blockquote>\n\n"
             "Ваш элитный командный центр. Мгновенный доступ к рыночным данным, аналитике и инструментам точной конвертации."
         ),
         "choose_language": (
@@ -302,7 +303,7 @@ MESSAGES = {
     },
     
     "hi": {
-        "welcome": "<blockquote><b>✦ QUANTUM CRYPTO PRO ✦</b></blockquote>\n\nआपका प्रोफेशनल क्रिप्टोकरेंसी कमांड सेंटर।",
+        "welcome": "<blockquote><b>✦ QUANTUM TOKEN PRO ✦</b></blockquote>\n\nआपका प्रोफेशनल टोकन कमांड सेंटर।",
         "choose_language": "<blockquote><b>🌍 भाषा सेटिंग्स</b></blockquote>\n\n<i>अपनी भाषा चुनें:</i>",
         "language_saved": "<blockquote><b>✅ सेटिंग्स अपडेटेड</b></blockquote>\n\n<i>भाषा सफलतापूर्वक सहेजी गई।</i>",
         "main_menu": "<blockquote><b>❖ मुख्य डैशबोर्ड</b></blockquote>\n\n<b>📊 लाइव कीमतें</b>\n<b>📰 बाज़ार समाचार</b>\n<b>🔁 एक्सचेंज हब</b>\n<b>⚙️ सिस्टम सेटिंग्स</b>",
@@ -315,7 +316,7 @@ MESSAGES = {
     },
     
     "zh": {
-        "welcome": "<blockquote><b>✦ QUANTUM CRYPTO PRO ✦</b></blockquote>\n\n欢迎使用您的专业加密货币指挥中心。",
+        "welcome": "<blockquote><b>✦ QUANTUM TOKEN PRO ✦</b></blockquote>\n\n欢迎使用您的专业代币指挥中心。",
         "choose_language": "<blockquote><b>🌍 系统语言设置</b></blockquote>\n\n<i>请选择您的首选操作语言：</i>",
         "language_saved": "<blockquote><b>✅ 偏好已保存</b></blockquote>\n\n<i>您的界面语言已成功更新。</i>",
         "main_menu": "<blockquote><b>❖ 主控制台</b></blockquote>\n\n<b>📊 实时市场</b>\n<b>📰 全球新闻</b>\n<b>🔁 兑换引擎</b>\n<b>⚙️ 系统参数</b>",
@@ -328,7 +329,7 @@ MESSAGES = {
     },
     
     "ja": {
-        "welcome": "<blockquote><b>✦ QUANTUM CRYPTO PRO ✦</b></blockquote>\n\nプロフェッショナルな暗号資産コマンドセンターへようこそ。",
+        "welcome": "<blockquote><b>✦ QUANTUM TOKEN PRO ✦</b></blockquote>\n\nプロフェッショナルなトークンコマンドセンターへようこそ。",
         "choose_language": "<blockquote><b>🌍 言語設定</b></blockquote>\n\n<i>希望する言語を選択してください:</i>",
         "language_saved": "<blockquote><b>✅ 設定完了</b></blockquote>\n\n<i>言語設定が更新されました。</i>",
         "main_menu": "<blockquote><b>❖ メインダッシュボード</b></blockquote>\n\n<b>📊 ライブマーケット</b>\n<b>📰 グローバルニュース</b>\n<b>🔁 為替ハブ</b>\n<b>⚙️ システム設定</b>",
